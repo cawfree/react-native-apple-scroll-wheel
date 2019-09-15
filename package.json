@@ -1,0 +1,21 @@
+{
+  "name": "react-native-apple-scroll-wheel",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "react-native",
+    "scroll",
+    "wheel",
+    "apple",
+    "ipod"
+  ],
+  "description": "The iconic scroll wheel that debuted with the original iPod. Now for React Native.",
+  "main": "index.js",
+  "repository": "https://github.com/cawfree/react-native-apple-scroll-wheel",
+  "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "react-markdown-gen": "^0.0.11"
+  }
+}
