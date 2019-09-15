@@ -44,8 +44,8 @@ For a complete working example, please check out the included [example code]('./
 ## 📌 Props
 
 -----
-Prop                  | Type     | Default                   | Required | Description
---------------------- | -------- | ------------------------- | -------- | -----------
+Prop                  | Type     | Default                   | Required |
+--------------------- | -------- | ------------------------- | -------- |
 radius|number|120|No|
 innerRadius|number|60|No|
 increment|number|10|No|
