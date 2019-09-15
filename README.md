@@ -27,7 +27,7 @@ import AppleScrollWheel from 'react-native-apple-scroll-wheel';
 
 ## ✍️ Example
 
-In the snippet below, we outline the basic interface to the [`AppleScrollWheel`]('./RNAppleScrollWheel/components/AppleScrollWheel/components/AppleScrollWheel'):
+In the snippet below, we outline the basic interface to the [`AppleScrollWheel`](https://github.com/cawfree/react-native-apple-scroll-wheel/blob/master/RNAppleScrollWheel/components/AppleScrollWheel.js):
 
 ```javascript
 <AppleScrollWheel
@@ -39,7 +39,7 @@ In the snippet below, we outline the basic interface to the [`AppleScrollWheel`]
 />
 ```
 
-For a complete working example, please check out the included [example code]('./RNAppleScrollWheel/components/AppleScrollWheel').
+For a complete working example, please check out the included [example code](https://github.com/cawfree/react-native-apple-scroll-wheel/blob/master/RNAppleScrollWheel/App.js).
 
 ## 📌 Props
 
