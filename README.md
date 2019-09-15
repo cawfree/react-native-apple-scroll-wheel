@@ -43,7 +43,6 @@ For a complete working example, please check out the included [example code]('./
 
 ## 📌 Props
 
------
 Prop                  | Type     | Default                   | Required |
 --------------------- | -------- | ------------------------- | -------- |
 radius|number|120|No|
